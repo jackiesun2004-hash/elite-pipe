@@ -1,2 +1,3 @@
 # elite-pipe
-elite pipe co.,ltd
+
+Official website for Elite Pipe Co., Limited.
